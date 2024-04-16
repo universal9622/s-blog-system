@@ -83,7 +83,7 @@ You can then login to the admin pages with:
 - email: admin@example.com
 - password: password
 
-## Deploying to Production with Digital Ocean and Vercel
+<!-- ## Deploying to Production with Digital Ocean and Vercel
 
 1. Use the Digital Ocean on click deploy tutorial to setup your database: https://www.edgedb.com/docs/guides/deployment/digitalocean#one-click-deploy
 2. Copy your Database Connection String (DSN) from step 1. It has the format edgedb://username:password@hostname:port
@@ -104,4 +104,4 @@ When Prompted:
 
 ## License
 
-MIT Licensed
+MIT Licensed -->
